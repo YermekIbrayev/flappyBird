@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1507469171 source:/home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/src/main.cpp
+	"main.h"
+
+1507469124 /home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/include/GameView.h
+	<SFML/Graphics.hpp>
+	"ApplicationObserver.h"
+	"GameController.h"
+
+1507252817 source:/home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/src/view/GameView.cpp
+	"GameView.h"
+
+1507468154 source:/home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/src/controller/ApplicationSubject.cpp
+	"ApplicationSubject.h"
+
+1507468129 /home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/include/ApplicationSubject.h
+	<vector>
+	"ApplicationObserver.h"
+
+1507468430 /home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/include/ApplicationObserver.h
+	<iostream>
+
+1507468198 source:/home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/src/controller/GameController.cpp
+	"GameController.h"
+
+1507468302 /home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/include/GameController.h
+	<SFML/Graphics.hpp>
+	"ApplicationSubject.h"
+
+1507383330 source:/home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/src/view/ApplicationObserver.cpp
+	"ApplicationObserver.h"
+
+1507469006 /home/s0cr4t/Documents/work/projects/gameDev/mvc_flappy_bird/include/main.h
+	"GameView.h"
+	"GameController.h"
+
